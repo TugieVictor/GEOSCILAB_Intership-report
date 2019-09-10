@@ -1,0 +1,97 @@
+# Attaché’s Involvements
+
+##	Porting blogs
+
+The first task was to port blogs from landscape portal version 4 website (landscapeportal.org) to the new version 5 (bloglsp.netlify.com)
+Using RStudio software and a package Rmarkdown as the text editor, I transferred the blogs in the landscape portal 2014 blog archive to the new version five website. One example of the output blog can be accessed online using the link [bloglsp](https://bloglsp.netlify.com/seminars/the-western-ghats-sentinel-landscape/).
+
+
+## 	Archiving EO4SD project data
+
+Using the landscape portal website, I uploaded EO4SD (Earth Observation for Sustainable Development) raster layers and maps for different African countries including; Burkina Faso, Ghana, Niger, Nigeria, Ethiopia, Kenya, Malawi, Cameroon, United Republic of Tanzania, Swaziland, and Senegal, while updating the metadata for each specific layer as provided by the project’s data owners.
+
+The Uploaded layers and maps include;- 
+
+-	Biomass production bimonthly
+
+-	IAP Biomass production yearly
+
+-	IAP Biomass trend 
+
+-	Monthly biomass production 
+
+-	Land cover 10m
+
+-	Land cover change 10m
+
+-	BFA: IFAD Land cover 2016
+
+-	SAWAP vegetation trend 2010 – 2016
+
+-	Veget. trend (human-induced)
+
+These layers and maps are available online via this link [Landscape portal projects](http://landscapeportal.org/projects/11)
+
+
+
+## 	Archiving Geo Science’s projects data
+
+Most of the previous projects had been stored in CD drives and due to the technology advancements, there are limited devices that are able to read data from these CD drives leave alone having CD drive ports and it is only a matter of time before they can completely get rid of.
+
+Archiving data in a more easily accessible and precise format is important and in this technology era, storing data in severs is the best and most appropriate way for this chores, since the easy of data retrieval which is just by a click of a few buttons.
+
+Since most of the project works was in the geoscience world, I had to use QGIS software a geographic information system (GIS) computer software responsible for viewing, editing, and analyzing geospatial data, to read into the data files. This was to help me understand the specific project stored in the CD drives and hence create a record keeping metadata in an excel document associated with the specific project data file and transfer the data from analogue CD drives to digital format.
+
+After completing the transfer and metadata process, I then transferred the data files from my working computer to the Geo Science Lab data spatial-archive server store, using the Safe File Transfer Protocol (SFTP) – ‘FileZilla’ for storage.
+
+
+
+## 	Download and Metadata Creation for Facebook Population Data
+
+I downloaded the Facebook data for African countries populations and like in the previous task; I did also create the metadata and store the data in the Geo Science Lab data archive server.
+
+## 	Helping with Organizing “QGIS TRAINING” Material Using RStudio
+
+R is a programming language for statistical data, and also has different variety of functions including but not limited to writing books.
+
+For the specific function of writing books, R has packages that are used to perform this task, the Rmarkdown package as a script platform to write into the R environment and bookdown package to generate the book. Other dependences required include but not limited to tinytex, and latex, for the purpose of generating the book.
+
+Each chapters of the book is written as a single Rmarkdown file, and an Index.Rmd file as the cover page for the book. For the production of the book, there are other files that determine and describe the type of output you need to get and this include; the ¬_output.yml describing the output format, style.css to give the desired style for the book, the build.sh file describing the build outputs required which in this case are **gitbook, pdf, and epub.**
+
+
+## The ESA (European Space Agency) Soil Moisture Data
+
+To gain access to this data, one needs to register with the ESA and once your registration details are confirmed, the data can be downloaded using a SFTP protocol.
+The following were the activities carried out on the soil moisture data;
+
+**-	Writing a blog on the metadata of the soil moisture**
+
+The data had been stored in NetCDF file format and hence to understand what data was included in the file I used the QGIS shell and run the gdalinfo command to read into the data files metadata. To simplify the information about the data as describe by ESA team on a readme file and the Product Specification Document (PSD), I wrote a blog using Rstudio and Rmarkdown package.
+
+**-	Working with Soil Moisture data using Rstudio**
+
+For the analysis of the NetCDF in R environment, I used the following packages; raster, ncdf4, rgdal, maptools, RNetCDF, sp, etc. the following are some of the basic steps and R functions required to carry out the analysis;
+
+-	setwd:- Function to set the working directory from where you have saved the data files in R environment
+
+-	list.file(path =” ”, pattern =):- Function in R to provide a value of files with a specific pattern in a group of files. I used it to combine the daily files into a single monthly file.
+
+-	nc_open(object name):- Function for opening a specific file in the object value created by list.file function described above
+
+-	print(object name):- Function for reading into any form of a data file in R environment to get the metadata for a specific object as describe above
+
+-	system(“gdalinfo filename”):- Also give information about the metadata used to create a certain object that you are reading data from.
+
+-	raster():- Opens the NetCDF variables as raster layers
+
+-	plot():- Gives the visual representation of the raster layer created
+
+-	stack():- This function combines the raster layer objects for different variables into a single visual representation output.
+
+-	writeRaster(x, filename = ‘specify', format = 'GTiff', overwrite = TRUE):- convert the raster object layer to a geotiff image; where x is the raster layer being converted 
+
+   
+ 
+
+
+

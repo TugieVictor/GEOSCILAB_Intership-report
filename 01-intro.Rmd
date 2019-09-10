@@ -1,0 +1,39 @@
+# Introduction {#intro}
+
+## Organizational background
+
+World Agroforestry Centre also referred to as International Centre for Research in Agroforestry (ICRAF), is the leading international organization in research in agroforestry, located in Nairobi, Kenya in Gigiri sub-county, along the United Nation Avenue. The centre’s Agro-ecological zone three, experiences a varying temperature range throughout the year from about 8° C on chilly July and August mornings, to about 28° C on sunny January and February afternoons. Average annual rainfall in this zone is about 930 mm, with variations from 1250 mm during wet periods, and as low as 350 mm during drought spells. April, May, and November are the months that the highest rainfall peaks are experienced. A wide variety of 100 plus tree species is planted around the institution’s environment and is neighbor to the Karura Forest. 
+ICRAF was established in 1978 with the aim of promoting agroforestry research in developing countries in response to a visionary study led by forester John Bene of Canada’s International Development Research Centre (IDRC) in the mid-1970s. 
+In 1991, ICRAF become a member of the CGIAR (Consultative Group on International Research) hence conducting strategic research on agroforestry throughout the tropics, this lead to the change of name from Council to Centre. 
+The brand name "World Agroforestry Centre" was adopted in 2002. However, the "International Centre for Research in Agroforestry" is still used as its legal name. 
+
+### ICRAF’s Vision 
+
+The organization has the vision of an equitable world where all people have viable livelihoods supported by healthy and productive landscapes.
+
+### ICRAF’s Mission
+
+The organization has a mission to harness the multiple benefits trees provide for agriculture, livelihoods, resilience and the future of our planet, from farmers’ fields through to continental scales.
+
+## Organizational departments 
+Focusing on research works, the organization has four main research areas referred to as ‘research themes’ in the institutional department context of research priorities which are; landscapes, soils, systems, and trees. The organization also has other CGIAR related programs including but not limited to research’s method group, Landscape Portal, where the Geo Science Lab is the cohort for its development.  Other departments include; management team, corporates services, Information and Communications Technology (ICT), and support groups. 
+
+###Landscapes
+The main aim of the theme focused in the achievement and delivery of the SDGs (Sustainable Development Goals), globally, nationally and also at a landscape scale.   
+
+
+### Soils
+Also known as the land health decision theme aims to improve land health management decision making through the advancement of scientific and technological knowledge for soil health analysis, hence preventing further land degradation while restoring already degraded lands.
+
+### Systems
+The Resilient livelihood systems i.e. the systems theme is mandated to the delivery of the realization of how well to manage trees cover so as to improve people’s livelihoods through increased income rates, food and nutrition, and also food security among the people in countries where ICRAF is stated.
+
+
+###Trees
+The tree productivity and diversity theme aims at conceptualizing the evidence and the scientific ways for tree diversity conservation, and provision of the best tree planting materials to farmers. The theme also promotes the adoption and mitigation strategies towards climate change through the enhancement of tree quality improvement and availability of tree seeds and seedlings in relation to their best suited plating sites 
+
+
+### Geo Science Lab (landscape portal)
+The landscape portal is an online spatial data visualization platform that is responsible for storage, data management and spatial modeling, hence it being a GIS (Geographical Information System).
+The landscape portal also helps in collaboration and sharing spatial data and publication.
+The software development and maintenance relating to the portal are carried out by the Geo Science Lab team. 

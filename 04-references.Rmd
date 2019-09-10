@@ -1,0 +1,17 @@
+`r if (knitr:::is_html_output()) '
+
+# References {-}
+'`
+# References {-}
+1. World Agroforestry Center (2019). About-us. Worldagroforestry.org. 
+              Available at: https://www.worldagroforestry.org/about-us 
+              [Accessed 4 Sep. 2019].
+
+2. Friends of Karura Forest (2015). Ecology: Climate & Soils, Plants & Animals. Friends of Karura     
+           Forest. Available at: http://www.friendsofkarura.org/the-karura-forest-researve/ecology         
+           climate-soils-plants-animals/ 
+           [Accessed 4 Sep. 2019].
+
+3. World Agroforestry Center (2019). EO4SD | Landscape Portal. Landscapeportal.org.       
+             Available at: http://landscapeportal.org/projects/11
+             [Accessed 4 Sep. 2019].

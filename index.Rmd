@@ -1,0 +1,54 @@
+--- 
+title: "GEOSCIENCE LAB INTERNSHIP REPORT"
+author: "Victor Mutugi"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+classoption: openany
+github-repo: GEOSCILAB_Intership-report
+description: "This is a intership report book document and the output of the book is in the form of bookdown::gitbook."
+---
+
+
+# ACKNOWLEDGEMENT {-} 
+My most profound gratitude goes to the Almighty God for giving me the opportunity to be attached at World Agroforestry Centre (ICRAF) and giving me strength to work and face each day. All the glory belongs to Him.
+
+I feel a great sense of indebtedness to ICRAF’s – Geo Science Lab manager and Geoportal Developer respectively, Tor Vegan and Muhammad N. Ahmad (my supervisor) for giving me a chance to be an attaché at the Geo Science Lab.
+
+Special thanks to Anthony Ngogu, Jane Wanjara, Clinton David, Michael Ngigi, and the whole Geo Science Team for their guidance and support during my attachment period. 
+
+Lastly, I wish to thank Imelda Ingumba in the Capacity Development Team for believing in me and making it possible for to for me be an attaché in ICRAF. Words cannot fully express my appreciation to all individual who contributed to the success of my attachment period. 
+                                 
+
+
+
+# EXCECUTIVE SUMMARY {-}
+This document is an internship report authored by Victor Mutugi after being an attaché at World Agroforestry Centre (ICRAF) from May 15, 2019 to August 31, 2019 in the Geo Science Lab.
+
+Following the school protocol that a student must have gained practical experience to demonstrate the theoretical knowledge gained from the school before finishing his/her undergraduate degree; it is for this reason that I was attached at this site location and therefore have documented this report to describe my main experiences gained during this period.
+
+ The report gives a detailed layout of all the activities I undertook, and showing the different skills and competencies I attained from each of the task and duty as shown in this list;
+ 
+-	Porting blogs from the landscape portal version 4 website to the new version 5.
+
+-	Archiving EO4SD project data to the landscape portal version 5.
+
+-	Archiving Geo Science’s projects data
+
+-	Download and Metadata Creation for Facebook Population Data
+
+- Helping with Organizing “QGIS TRAINING” Material Using RStudio
+
+-	Download and analysis of the ESA (European Space Agency) Soil Moisture Data
+
+Included in the report also, are the opportunities, strengths, and weakness as well as the challenges experienced during the internship period.
+
+
+
+
+
+

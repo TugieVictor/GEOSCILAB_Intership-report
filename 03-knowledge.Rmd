@@ -1,0 +1,46 @@
+# Practical Knowledge and Competencies Gained
+
+-	Writing Rmarkdown files using the markdown syntax such as tags for headers, links, images and videos to list just a few, and knitting the Rmd files to visualize the output in the web version.
+
+-	Pushing the R files and folders to gitlab repositories and uploading the desirable blog post to netlify for free hosting.
+
+-	Using QGIS to read and visualize geospatial datasets 
+
+- Uploading layers to the landscape portal site, editing the metadata for archiving, providing the layers with styles using the geosever and visualizing the output data in the portal.
+
+-	Creating maps from the layers in the landscape portal using the provided function for creating maps in the site
+
+-	Using SFTP to transfer data from remote servers
+
+-	Creating metadata files for archiving data files.
+
+-	Using Rstudio to read into NetCDF files metadata.
+
+-Visualizing raster layer data in Rstudio.
+
+## Geo Science Lab Opportunities, Strength and Weakness
+
+**1.	Opportunities**
+
+The world’s technology growth rate is increasing exponentially, and Geo Science Lab being a technology based site means that there are big opportunities for innovations in the geospatial as well as data science world.
+
+
+**2.	Strengths**
+
+The landscape portal is web version GIS software solely developed and managed by the Geo Science Lab team. This shows the high technical and intelligence levels of the team being the main strength of the theme (department).
+
+**3.	Weakness**
+
+While dealing with spatial data, the ability to visualize is a key requirement. This hence makes it almost impossible for the visually impaired to be a part of the team.
+
+
+## Attaché’s Challenge
+
+Adapting to the new workflow considering my studies in computer skills taught in school were basic and the work ecosystem required more complex and technical knowledge such as R programming. 
+Through learning from the colleagues in the workstation I was attached, and from the internet I eventually was able to overcome this challenge. 
+This was a challenge since I had to take more time researching on something hence eating up on the time required for completing the assigned task, and also at time I had to make someone else stop their duty and offer a tutorial lesson. 
+After I had interacted with the ‘R world’ I got acquainted with the fundamental knowledge on solving future problems that I encountered during my attachment involvements.
+  
+### Recommendation on Attachment Exercise 
+
+-	Provision of a stipend to the attaché.  
